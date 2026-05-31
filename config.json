@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userealidate",
+        "uuid": 5315760,
+        "checksum": "40lsy0g"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
